@@ -1,0 +1,379 @@
+{
+  "accessors": [
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 36352,
+      "max": [
+        0.005170999560505152,
+        0.14466999471187592,
+        0.005481999833136797
+      ],
+      "min": [
+        -0.005171999800950289,
+        0.1358269900083542,
+        -0.004865999799221754
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 36352,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 36352,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5125,
+      "count": 54528,
+      "max": [
+        36351.0
+      ],
+      "min": [
+        0.0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 9,
+      "componentType": 5126,
+      "count": 68366,
+      "max": [
+        0.019367000088095665,
+        0.13950899243354797,
+        0.019367000088095665
+      ],
+      "min": [
+        -0.019367000088095665,
+        0.0,
+        -0.019367000088095665
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 10,
+      "componentType": 5126,
+      "count": 68366,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 11,
+      "componentType": 5126,
+      "count": 68366,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 12,
+      "componentType": 5125,
+      "count": 102528,
+      "max": [
+        68365.0
+      ],
+      "min": [
+        0.0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "copyright": "2020 (c) Adobe Inc.",
+    "extensions": {
+      "KHR_xmp": {
+        "packet": 0
+      }
+    },
+    "generator": "Adobe Dimension - 5769982f30ff13dfba89076b81240843d8e6af81",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 1,
+      "byteOffset": 0
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1,
+      "byteOffset": 0
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1,
+      "byteOffset": 0
+    },
+    {
+      "buffer": 0,
+      "byteLength": 436224,
+      "byteOffset": 4,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 436224,
+      "byteOffset": 436228,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 290816,
+      "byteOffset": 872452,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 218112,
+      "byteOffset": 1163268,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1,
+      "byteOffset": 0
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1,
+      "byteOffset": 0
+    },
+    {
+      "buffer": 0,
+      "byteLength": 820392,
+      "byteOffset": 1381384,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 820392,
+      "byteOffset": 2201776,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 546928,
+      "byteOffset": 3022168,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 410112,
+      "byteOffset": 3569096,
+      "target": 34963
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 3979208,
+      "uri": "PEL_MID.bin"
+    }
+  ],
+  "cameras": [
+    {
+      "name": "render_camera",
+      "perspective": {
+        "aspectRatio": 1.3333333730697632,
+        "yfov": 0.6024156808853149,
+        "zfar": 2.0,
+        "znear": 1.0000000656873453E-5
+      },
+      "type": "perspective"
+    }
+  ],
+  "extensions": {
+    "KHR_xmp": {
+      "@context": {
+        "dc": "http://purl.org/dc/elements/1.1/"
+      },
+      "packets": [
+        {
+          "dc:date": "2020-04-24T23:35:12.533-04:00",
+          "dc:format": "model/gltf-binary",
+          "dc:title": "PELLE_A.dn",
+          "xmp:CreatorTool": "Adobe Dimension"
+        }
+      ]
+    }
+  },
+  "extensionsUsed": [
+    "KHR_xmp"
+  ],
+  "images": [
+    {
+      "uri": "image0.jpg"
+    },
+    {
+      "uri": "image1.png"
+    },
+    {
+      "uri": "image2.png"
+    },
+    {
+      "uri": "image3.jpg"
+    },
+    {
+      "uri": "image4.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "clamp_top_bottle_1531_plastic_MatSG",
+      "normalTexture": {
+        "index": 2
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Glass",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicFactor": 0.0,
+        "metallicRoughnessTexture": {
+          "index": 4
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "clamp_top_bottle_1531_plastic",
+      "primitives": [
+        {
+          "attributes": {
+            "TEXCOORD_0": 2,
+            "NORMAL": 1,
+            "POSITION": 0
+          },
+          "indices": 3,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "clamp_top_bottle_1531_glass",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 4,
+            "NORMAL": 5,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "camera": 0,
+      "name": "render_camera_n3d",
+      "rotation": [
+        -0.030471621081233025,
+        -0.233327254652977,
+        -0.007315375376492739,
+        0.9718931913375854
+      ],
+      "translation": [
+        -1.0951261520385742,
+        0.06897696107625961,
+        -0.9264813661575317
+      ]
+    },
+    {
+      "children": [
+        2,
+        3
+      ],
+      "name": "clamp_top_bottle_1531",
+      "scale": [
+        0.8164563179016113,
+        0.8164563179016113,
+        0.8164563179016113
+      ],
+      "translation": [
+        -0.9987522959709167,
+        0.0,
+        -1.1143180131912231
+      ]
+    },
+    {
+      "mesh": 0,
+      "name": "clamp_top_bottle_1531_plastic",
+      "scale": [
+        0.9999998807907104,
+        0.4045611023902893,
+        0.9999998807907104
+      ],
+      "translation": [
+        7.629395071262479E-8,
+        0.0808766707777977,
+        1.5258790142524958E-7
+      ]
+    },
+    {
+      "mesh": 1,
+      "name": "clamp_top_bottle_1531_glass"
+    }
+  ],
+  "samplers": [
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "scene",
+      "nodes": [
+        0,
+        1
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "name": "clamp_top_bottle_1531_plastic_MatSG::baseColor::image",
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "name": "image",
+      "sampler": 1,
+      "source": 1
+    },
+    {
+      "name": "clamp_top_bottle_1531_plastic_MatSG::normal::image",
+      "sampler": 2,
+      "source": 2
+    },
+    {
+      "name": "composited_baseColor",
+      "sampler": 3,
+      "source": 3
+    },
+    {
+      "name": "composited_roughness",
+      "sampler": 4,
+      "source": 4
+    }
+  ]
+}

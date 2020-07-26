@@ -1,0 +1,67 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: 2797-0500
+Author: Техноиндустрия Оборудование выдува
+URL: https://poly.google.com/view/f9X4L-mRjDD
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: avatar
+Author: sugamo
+URL: https://poly.google.com/view/fVudI4zY3Lg
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Bag of Flour
+Author: sirkitree
+URL: https://poly.google.com/view/3GMNXc2YGXS
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Banana
+Author: Zoe XR
+URL: https://poly.google.com/view/7JDar2uHBqg
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Bowl
+Author: Zoe XR
+URL: https://poly.google.com/view/9Pwr-5gyfVV
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: donuts kitchen
+Author: chun WU
+URL: https://poly.google.com/view/3PvA5X36FFN
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Egg
+Author: Matthew Laffey (no1laff)
+URL: https://poly.google.com/view/eAqdt5Kwkbc
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: oil barrel
+Author: iliès Ayachi
+URL: https://poly.google.com/view/a0G5HctY307
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Salt and pepper shaker
+Author: Poly by Google
+URL: https://poly.google.com/view/d7n1Dx-y1R1
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: sister
+Author: Kirk Lemieux
+URL: https://poly.google.com/view/9dEb7GKZpGK
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: soda can
+Author: Tiff Eidmann
+URL: https://poly.google.com/view/ekfkxqIBcuw
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
